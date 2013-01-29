@@ -1,6 +1,6 @@
 all:	build/thot.txt build/thot.json
 
-build/thot.txt:		thot*.txt
+build/thot.txt:		thot_2*.txt
 	cat $? | sed 's/[^a-zA-Z0-9_\.-]/-/g;s/--+/-/g' | uniq | sort > $@
 
 build/thot.json:	build/thot.txt
