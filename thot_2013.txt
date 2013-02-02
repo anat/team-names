@@ -7,3 +7,5 @@ hackage
 fete-des-slips
 truite-joyeuse
 camembert-aux-aissels
+une-gomme
+une-carotte
