@@ -11,3 +11,9 @@ une-gomme
 deux-gommes
 une-carotte
 ouh-cest-rigolo-paske-cest-des-singes
+un-peu-de
+andre-jalou-un-autre
+langage-c
+lapin-lapin
+au-secours
+antivirus-au-format-bash
