@@ -40,3 +40,14 @@ atroce-feerie
 morbide-comptine
 la-gougoute-a-pepe
 snack-sympa
+irc-vert
+bsd
+mit
+gpl3
+lgpl
+wtfpl
+apache
+agpl3
+mit
+mp3
+croute-sulfureuse
