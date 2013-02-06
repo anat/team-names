@@ -32,6 +32,7 @@ absolument-indechiffrable
 mais-c-est-toi-qui-a-le-bureau-avec-la-fenetre
 boites-de-cartons
 reseau-wan
-system-atm
-serveurs-linux-ab-qui-fonctionnent-sous-redhat
+system-acs
+serveurs-linux-ap-qui-fonctionnent-sous-redhat
 so-leet
+albatros
