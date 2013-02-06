@@ -1,5 +1,6 @@
 2600-lille
 42
+612-bits-de-cryptage
 750-au-TOEIC
 C3PO
 CMD.EXE
@@ -8,6 +9,7 @@ NOTEPAD.EXE
 R2D2
 a-reussi-a-pown
 absente
+absolument-indechiffrable
 addikted-to-u
 adopte-un-mec
 agpl3
@@ -25,6 +27,7 @@ au-secours
 aurelie-pub
 avortement-express
 babybel
+bah-euh-t-as-qu-a-laisser-passer-stidiot
 balaise-man
 balcons
 barbie_camping-car
@@ -35,6 +38,7 @@ bicycle-repair-man
 bisouland
 black_penetrator
 bocal
+boites-de-cartons
 bon-boulot
 bordeaux_chesnel_head_fucking
 botnet
@@ -67,6 +71,8 @@ coconne
 combat-d-infirmes
 core2duo
 croute-sulfureuse
+culs-de-jacks
+culs-de-jates
 cyberpunk
 daddy
 dans-un-arbre
@@ -97,7 +103,9 @@ epilation
 escargot-de-la-politesse
 estomac-de-nebuleuse
 et-son-cheval
+evadage
 evil-douceur
+exosquelette-total-destruction
 extincteur
 f4
 fan-de-aranoxs
@@ -147,6 +155,7 @@ hacker_vaillant_rien_d_impossible
 hackman
 haxor
 here-for-beer
+histoire-de-voir-si-j-y-arriverais
 hitler-did-nothing-wrong
 hop-quarante-douze
 hugo-top-delire
@@ -179,20 +188,27 @@ kinder-bueno
 klub69
 la-bande-a-basile-2
 la-gougoute-a-pepe
+la-loutre-et-le-heron-sont-mes-amis
 la-mexicaine-du-piratage
 langage-c
 lapin-lapin
 lapin_cretin
 le-beau-frere-du-president
+le-plus-dur-est-derriere-toi
 leaky-butt-sneeze
 leche-cul
 leche-ton-coude
 leguman
 lerusse
 les-animaux-amoureux
+les-beaux-freres-du-president
+les-bouffeurs-de_moul
 les-mangeurs-de-cheval-cru
+les-pet-au-casque
 les-plutot-balaises
+les-rats-d-egout-lubriques
 les-tronconneurs-du-dimanche
+les-vrais-petits-garcons
 les_etageres_carrees
 les_grenouilles_bleues
 les_licornes_enchantees_du_bois_de_la_magnifique_statue_doree_qui_brille_beaucoup
@@ -205,6 +221,7 @@ linux
 littledaddy
 lkjlkjlkj
 machine-a-cafe
+mais-c-est-toi-qui-a-le-bureau-avec-la-fenetre
 malabar
 mario-brosse
 martine
@@ -248,6 +265,7 @@ patate-for-porn
 pdg-de-la-pataterie
 pentathonique
 pentestculotte
+peperes
 perlhandbook
 petit-poney
 petite-fille-crusher
@@ -278,6 +296,7 @@ ratatate
 redbull
 region-paca
 renard-a-queue-verte
+reseau-wan
 rillettes
 rip-jamy-gourmaud
 rocco
@@ -288,6 +307,7 @@ saperlipopette
 sauvons-les-bbfoks
 schneier
 sdf
+serveurs-linux-ab-qui-fonctionnent-sous-redhat
 serveuse_pas_contente
 sexy-sensouel
 sexyflash
@@ -295,9 +315,12 @@ showimage
 shrek
 sleep
 snack-sympa
+so-leet
 solvik_se_tape_une_queue
 stylobic
 suce-mon-cul
+system-atm
+tape-dans-le-fond-je-suis-pas-ta-mere
 tds
 team
 tecktonik
@@ -324,6 +347,7 @@ vengeur-masque
 venom
 verge
 vibromasseur
+viens-la-monique-que-je-te-tasse-les-muqueuses
 vik_ings
 vik_odine
 vik_team
