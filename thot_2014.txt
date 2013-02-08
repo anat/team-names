@@ -72,4 +72,4 @@ rtfm
 sqlninja
 omgwtfbbq
 programmeur-mongodb
-veritable-as-de-la-programmation
+veritables-as-de-la-programmation
