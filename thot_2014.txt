@@ -1,3 +1,4 @@
+/n
 42
 451123ACF45623145FGF541ZD11254
 45577411aa5sdAKx1cf8f55VB1bv54f
@@ -60,6 +61,7 @@ kwame-aussi
 l-esl-c-de-la-merde
 la-bite-helicoptere
 la-loutre-et-le-heron-sont-mes-amis
+la-pince
 le-caca-cest-delicieux
 le-cheval-le-cheval-le-cheval-cest-genial
 le-club-des-surhommes
@@ -92,6 +94,7 @@ mst
 ni-oui-ni-non
 non-prophet-organization
 ns-est-parti
+NULL
 omgwtfbbq
 on-s-est-rencontres-dans-mon-slip
 parce-que-toulon
@@ -138,6 +141,7 @@ urine-shower
 veritables-as-de-la-programmation
 viens-la-monique-que-je-te-tasse-les-muqueuses
 vodka-swheppes-grenadine
+Yordles
 your-mama-so-fat
 zizi-shell
 zlatan
