@@ -160,3 +160,6 @@ cuir-cuir-cuir-moustache
 je-put-le-string-dans-l'array
 Drugs-is-my-life
 malloc-ouille
+le-sourire-du-dragon
+28-bites-plus-tard
+une-rondelle-ne-fait-pas-le-printemps
