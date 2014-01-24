@@ -118,6 +118,7 @@ rot13-en-force
 roxan-roumegas
 rpg-raptor-shark
 rtfm
+sboubinette
 serveurs-linux-ap-qui-fonctionnent-sous-redhat
 sodomites
 so-leet
